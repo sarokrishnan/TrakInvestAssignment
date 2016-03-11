@@ -8,8 +8,8 @@ As the 2nd child I should store each result to MongoDB
 Technology used : Scala, Akka actor, spray-client, scalatest, akka-scheduler, SBT , MongoDB as datastore
 
 Note : I used the main actor as an app(extends app) to create Actor System, and child actors 
-Also, this is my first scala/akka coding, coded after reading few hours scala and akka. Interesting to learn and play with this.
-Please let me know your feedback, will make it better eventually as I learn.
+Also, this is my first scala/akka coding, coded after reading/learning few hours scala and akka. Interesting to learn and play with this.
+Please let me know your feedback or improvment, will make it better eventually as I learn.
 
 Download the project and import to Intellij and 
 run MainActor.scala 
